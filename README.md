@@ -1,16 +1,5 @@
-# step_02
+![alt text](https://github.com/Gitzak/flutter-firebase-fireauth-codelab/blob/main/screen_shoot.jpg)
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Create and manage events, invite guests, and chat in real-time using Flutter and Firebase Auth with secure user authentication and data synchronization through Firestore.
